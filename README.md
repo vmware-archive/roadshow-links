@@ -9,6 +9,6 @@ Links to Sample Apps
 Links to Hands-On Labs
 ===================
 
-* [Continuous Delivery](https://github.com/cf-platform-eng/cf-community-workshop/blob/master/labs/continuous-delivery-lab.adoc)
-* [Buildpacks](https://github.com/cf-platform-eng/cf-community-workshop/blob/master/labs/buildpack-lab.adoc)
-* [Service Brokers](https://github.com/cf-platform-eng/cf-community-workshop/blob/master/labs/service-broker-lab.adoc)
+* [Continuous Delivery](https://github.com/cf-platform-eng/cf-community-workshop/blob/master/demos/continuous-delivery-lab.adoc)
+* [Buildpacks](https://github.com/cf-platform-eng/cf-community-workshop/blob/master/demos/buildpack-lab.adoc)
+* [Service Brokers](https://github.com/cf-platform-eng/cf-community-workshop/blob/master/demos/service-broker-lab.adoc)
