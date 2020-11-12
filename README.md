@@ -1,3 +1,5 @@
+# roadshow-links is no longer actively maintained by VMware.
+
 Links to Sample Apps
 ==============
 
